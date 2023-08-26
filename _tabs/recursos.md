@@ -7,6 +7,10 @@ order: 5
 ## Documentación
 - [Arduino](https://docs.arduino.cc/)
 
+
+## Recursos 3D
+- [Thingiverse](https://www.thingiverse.com/)
+
 ## Software
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Processing](https://processing.org/download)
