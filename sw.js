@@ -1,6 +1,6 @@
 self.importScripts('/iot/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230826.170601';
+const cacheName = 'chirpy-20230826.181855';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {

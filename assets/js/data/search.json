@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "CNC Plotter",
+    "url": "/iot/posts/mini-cnc/",
+    "categories": "cnc, arduino",
+    "tags": "getting started",
+    "date": "2023-01-01 10:15:43 +0100",
+    
+
+
+
+
+
+    "snippet": "3DCodigoBasado enArduino mini CNC plotter"
+  },
+  
+  {
     "title": "Configuración de módulo bluetooth HC02",
     "url": "/iot/posts/bluetooth-config/",
     "categories": "bluetooth, arduino",
