@@ -4,7 +4,7 @@
   <id>/iot/</id>
   <title>Herbrando</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-08-26T18:18:55+02:00</updated>
+  <updated>2023-08-26T18:22:16+02:00</updated>
   <author>
     <name>Herbrand</name>
     <uri>/iot/</uri>
@@ -55,6 +55,7 @@ Codigo
 Basado en
 
 Arduino mini CNC plotter
+Pen holder
 
     </summary>
   
