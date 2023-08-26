@@ -1,0 +1,109 @@
+[
+  
+  {
+    "title": "Configuración de módulo bluetooth HC02",
+    "url": "/iot/posts/bluetooth-config/",
+    "categories": "bluetooth, arduino",
+    "tags": "getting started",
+    "date": "2022-11-01 10:15:43 +0100",
+    
+
+
+
+
+
+    "snippet": "Para configurar un módulo Bluetooth esclavo es necesario hacerlo por comandos AT.ComunicaciónUtiliza comunicación en serie UART. Asi que necesitaremos conectar sus pines RX y TX con pines TX y RX r..."
+  },
+  
+  {
+    "title": "Welcome to Jekyll!",
+    "url": "/iot/posts/welcome-to-jekyll/",
+    "categories": "jekyll, update",
+    "tags": "",
+    "date": "2022-10-10 11:15:43 +0200",
+    
+
+
+
+
+
+    "snippet": "You’ll not find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to ru..."
+  },
+  
+  {
+    "title": "Enable Google Page Views",
+    "url": "/iot/posts/enable-google-pv/",
+    "categories": "Blogging, Tutorial",
+    "tags": "google analytics, pageviews",
+    "date": "2021-01-04 00:32:00 +0100",
+    
+
+
+
+
+
+    "snippet": "  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature o..."
+  },
+  
+  {
+    "title": "Customize the Favicon",
+    "url": "/iot/posts/customize-the-favicon/",
+    "categories": "Blogging, Tutorial",
+    "tags": "favicon",
+    "date": "2019-08-10 18:34:00 +0200",
+    
+
+
+
+
+
+    "snippet": "The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons..."
+  },
+  
+  {
+    "title": "Getting Started",
+    "url": "/iot/posts/getting-started/",
+    "categories": "Blogging, Tutorial",
+    "tags": "getting started",
+    "date": "2019-08-09 14:55:00 +0200",
+    
+
+
+
+
+
+    "snippet": "PrerequisitesFollow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.InstallationCreating a..."
+  },
+  
+  {
+    "title": "Writing a New Post",
+    "url": "/iot/posts/write-a-new-post/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2019-08-08 08:10:00 +0200",
+    
+
+
+
+
+
+    "snippet": "This post will guide you how to write a post on Chirpy theme. Even if you have previous experience with Jekyll, this article is worth reading, because many features require specific variables to be..."
+  },
+  
+  {
+    "title": "Text and Typography",
+    "url": "/iot/posts/text-and-typography/",
+    "categories": "Blogging, Demo",
+    "tags": "typography",
+    "date": "2019-08-08 05:33:00 +0200",
+    
+
+
+
+
+
+    "snippet": "This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.TitlesH1 - headingH2 - headingH3 - headingH4 ..."
+  }
+  
+]
+

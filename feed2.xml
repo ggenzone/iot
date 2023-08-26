@@ -1,0 +1,240 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/iot/</id>
+  <title>Herbrando</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2023-08-26T14:00:31+02:00</updated>
+  <author>
+    <name>Herbrand</name>
+    <uri>/iot/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/iot/feed2.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="/iot/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2023 Herbrand </rights>
+  <icon>/iot/assets/img/favicons/favicon.ico</icon>
+  <logo>/iot/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Configuración de módulo bluetooth HC02</title>
+    <link href="/iot/posts/bluetooth-config/" rel="alternate" type="text/html" title="Configuración de módulo bluetooth HC02" />
+    <published>2022-11-01T10:15:43+01:00</published>
+  
+    <updated>2022-11-01T10:15:43+01:00</updated>
+  
+    <id>/iot/posts/bluetooth-config/</id>
+    <content src="/iot/posts/bluetooth-config/" />
+    <author>
+      <name>Herbrand</name>
+    </author>
+
+  
+    
+    <category term="bluetooth" />
+    
+    <category term="arduino" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Para configurar un módulo Bluetooth esclavo es necesario hacerlo por comandos AT.
+
+Comunicación
+
+Utiliza comunicación en serie UART. Asi que necesitaremos conectar sus pines RX y TX con pines TX y RX respectivamente. Se pueden utilizar los pines de comunicación en serie del Arduino tanto los del hardware o los que soporta SoftwareSerial.
+
+Pines
+
+
+  
+    
+      Numero
+      Nombre
+      Descripc...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome to Jekyll!</title>
+    <link href="/iot/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+    <published>2022-10-10T11:15:43+02:00</published>
+  
+    <updated>2022-10-10T11:15:43+02:00</updated>
+  
+    <id>/iot/posts/welcome-to-jekyll/</id>
+    <content src="/iot/posts/welcome-to-jekyll/" />
+    <author>
+      <name>Herbrand</name>
+    </author>
+
+  
+    
+    <category term="jekyll" />
+    
+    <category term="update" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      You’ll not find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+YEAR-MONTH-DAY-title...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Enable Google Page Views</title>
+    <link href="/iot/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
+    <published>2021-01-04T00:32:00+01:00</published>
+  
+    <updated>2021-01-04T00:32:00+01:00</updated>
+  
+    <id>/iot/posts/enable-google-pv/</id>
+    <content src="/iot/posts/enable-google-pv/" />
+    <author>
+      <name>sille_bille</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature of Chirpy will also be deprecated at that time.
+
+
+This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep t...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Customize the Favicon</title>
+    <link href="/iot/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <published>2019-08-10T18:34:00+02:00</published>
+  
+    <updated>2019-08-10T18:34:00+02:00</updated>
+  
+    <id>/iot/posts/customize-the-favicon/</id>
+    <content src="/iot/posts/customize-the-favicon/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+
+Generate the favicon
+
+Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="/iot/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2019-08-09T14:55:00+02:00</published>
+  
+    <updated>2019-08-09T14:55:00+02:00</updated>
+  
+    <id>/iot/posts/getting-started/</id>
+    <content src="/iot/posts/getting-started/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  Forking ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
